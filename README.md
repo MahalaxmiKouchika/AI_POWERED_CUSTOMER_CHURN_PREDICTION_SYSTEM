@@ -25,8 +25,6 @@ The application provides:
 
 ## 🏗️ System Architecture
 
-## 🏗️ System Architecture
-
 ```text
 ┌──────────────────────────────────────────┐
 │ Customer Demographic & Behavioral Data   │
