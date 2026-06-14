@@ -25,45 +25,28 @@ The application provides:
 
 ## 🏗️ System Architecture
 
-Customer Data
-│
-▼
-
-Data Preprocessing
-
-(Missing Values + Encoding)
-
-│
-▼
-
-Feature Engineering
-
-│
-▼
-
-Feature Scaling
-
-│
-▼
-
-Machine Learning Model
-
-(XGBoost / Classification Model)
-
-│
-▼
-
-Churn Prediction
-
-│
-▼
-
-Probability Score
-
-│
-▼
-
-Interactive Streamlit Dashboard
+Customer Demographic & Behavioral Data 
+        │
+        ▼
+Data Preprocessing Pipeline (Cleaning, Encoding, Validation) 
+        │
+        ▼
+Feature Engineering & Scaling 
+        │
+        ▼
+Machine Learning Prediction Engine (XGBoost Classifier)
+        │
+        ▼
+Churn Probability Estimation 
+        │
+        ▼
+Customer Risk Classification
+        │
+        ▼
+Interactive Streamlit Dashboard 
+        │
+        ▼
+Actionable Business Retention Insights
 
 ---
 
